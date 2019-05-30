@@ -66,6 +66,6 @@ const tree = {
             { type: "text", value: "}" }
         ]}
     ]
-}
+};
 
 console.log(printer.print(tree));
