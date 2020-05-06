@@ -2,7 +2,7 @@
   "name": "gp-pretty-print",
   "version": "0.0.2",
   "description": "Build a representation of source code and emit as text",
-  "main": "dist/index-umd.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
